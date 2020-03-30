@@ -4,8 +4,7 @@ Liebes BAIN-Tagebüchlein
 
 Am Freitag, 13.03.2020, fanden die ersten beiden Blöcke des Fachs "BAIN" aka "Bibliotheks- und Archivinformatik" statt. Grundsätzlich
 wäre es ein schöner, leicht sonniger Tag in Zürich gewesen, nur hat uns das Coronavirus die Laune verdorben. An diesem Tag wurde nämlich
-verkündet, dass aufgrund des Virus alle Fachhochschulen und so auch die FHGR vorerst geschlossen werden. Für die, die gerne zu Hause sitzen,
-ist es eher etwas positives, aber ich habs jetzt schon bereits satt, von zu Hause aus ALLES lernen zu müssen. 
+verkündet, dass aufgrund des Virus alle Fachhochschulen und so auch die FHGR vorerst geschlossen werden. Für die, die gerne zu Hause sitzen, ist es eher etwas positives, aber ich habs jetzt schon satt, von zu Hause aus ALLES lernen zu müssen. 
 
 Aber lassen wir Mal den Virus auch in Ruhe (dann lässt er uns hoffentlich auch in Frieden) und kehren wir zurück zum Unterricht. 
 
