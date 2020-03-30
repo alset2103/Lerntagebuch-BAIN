@@ -51,8 +51,8 @@ Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARI
 </ul>
 
 Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obigen, die nützlich wären. Diese könnt ihr unter dem folgenden
-Link finden:
-<a href=“http://www.linux-praxis.de/linux1/befehle2.html“>
+Link finden: http://www.linux-praxis.de/linux1/befehle2.html
+
 
 Mein Fazit aus dem ersten Vorlesungstag ist, dass vieles bereits bekannt ist, deshalb denke ich auch, dass ich keine grösseren Mühe 
 haben werde, den Stoff zu verstehen. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was auf uns in 
