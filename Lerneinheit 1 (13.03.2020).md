@@ -8,34 +8,28 @@ verkündet, dass aufgrund des Virus alle Fachhochschulen und so auch die FHGR vo
 
 Aber lassen wir Mal den Virus auch in Ruhe (dann lässt er uns hoffentlich auch in Frieden) und kehren wir zurück zum Unterricht. 
 
-Angefangen hat der Unterricht mit einer organisatorischen Einführung. Dies mag eigentlich der beste Zeitpunkt während des ganzen Semesters
-sein, da man sich einfach zurücklehnen kann und nur wahrnehmen muss, was einen erwarten wird. Nun können wir uns richtig freuen, da es in 
-BAIN keine Prüfung geben wird! Benotet werden nur diese tollen Lerntagebuch-Einträge, deshalb muss man sich auch richtig Mühe geben, dir  
-etwas schlaues zu schreiben, liebes Tagebuch! 
-Was ich auch super finde ist, dass unser Dozent keine gewöhnlichen PPP-Folien zur Verfügung stellt, sondern ein gemeinsames Dokument von der
-GWDG nutzt. Das Tool ist wie ein Notizbuch mit verschiedenen Seiten, aber digital. Da die Seiten gut strukturiert werden können, gefällt   
-es mir soweit sehr. 
+Zuerst möchte ich kurz vom Tool erzählen, das unser Dozent, Herr Lohmeier, zur Vermittlung des Stoffes verwendet. Anstatt wie gewöhnlich PPP-Folien vorzubereiten und diese nach un nach abspielen lassen, verwendet er ein Tool von GWDG, auf dem er Dokumente online erstellen und veröffentlichen kann. Diese können von uns Studierenden nicht nur eingesehen, aber auch bearbeitet werden. Es ist eine super Alternative zu den gewohnten Methoden, da die Inhalte gut strukturiert sind und dabei fast alles auf einen Blick ist.
 
-Nun zum etwas mehr technischen Teil:
-Unsere Arbeitsumgebung wird künftig ein Linux-Betriebssystem sein, das dank einer virtuellen Maschine benutzt werden kann. Diese virtuelle
-Maschine wird nicht nur eine installierte Software, wie "Oracle VM VirtualBox", betrieben, sondern durch die Cloud-Plattform "Microsoft
-Azure". Ein grosser Vorteil von dieser Plattform ist, dass man bei der Anmeldung wenige Daten preisgeben muss. 
+Nun, angefangen hat der Unterricht mit einer organisatorischen Einführung. Dies mag eigentlich der beste Zeitpunkt während des ganzen Semesters sein, da man sich einfach zurücklehnen kann und nur zuhören muss, was auf einen bald zukommt. 
+Wir können uns richtig freuen, da es in BAIN keine Prüfung geben wird! Benotet werden nur die Lerntagebuch-Einträge. Darin soll man beschreiben, was man in der letzten Vorlesung alles gelernt hat und zusätzlich können noch persönliche Gedanken und Kritik geäussert werden.
 
-Schritte zur Verwendung der virtual Machine:
+Kommen wir mal zum etwas wichtigerem Teil der Vorlesung:
+Unsere Arbeitsumgebung wird künftig ein Linux-Betriebssystem sein, das dank einer virtuellen Maschine benutzt werden kann. Diese virtuelle Maschine wird nicht durch eine installierte Software, wie "Oracle VM VirtualBox", betrieben, sondern durch die Cloud-Plattform "Microsoft Azure". Ein grosser Vorteil von dieser Plattform ist, dass man bei der Anmeldung wenige Daten preisgeben muss. 
+Da wir viele verschiedene Bibliotheks- und Archivsysteme anschauen und auch selbst anwenden werden, ist es sinnvoller, diese auf einer virtuellen Maschine durchzutesten. So wird unser Speicherplatz (auf dem Laptop) nicht beansprucht und wir gefährden keinen Absturz unseres Computers. Kurz gesagt: es kann weniger schief gehen! 
+
+Schritte zur Verwendung der virtuellen Maschine von Microsoft Azure:
 <ol>
-<li>In unserem Fall: Wir haben einen Link vom Dozenten mit einem Link zur Registrierung erhalten. Damit kann man sich bei Microsoft
-Azure mit dem Namen, E-Mail und Geburtsdatum registrieren. Man kann ausserdem auch ein bestehendes Microsoft-Konto nutzen. 
-<li>Nach der Anmeldung erscheint ein kleines Fenster mit der Verfügbaren virtuellen Maschine. Dort kann man die Maschine einschalten,
+<li>In unserem Fall: Wir haben eine Einladung per Email vom Dozenten mit einem Link zur Registrierung erhalten. Damit kann man sich bei Microsoft Azure mit dem Namen, E-Mail und Geburtsdatum registrieren. Man kann aber auch ein bereits bestehendes Microsoft-Konto nutzen. 
+<li>Nach der Anmeldung erscheint ein kleines Fenster mit einer verfügbaren virtuellen Maschine. Dort kann man die Maschine einschalten,
 sowie auch ausschalten.</li>
-<li>Sobald die Maschine gestartet wurde, kann man auf ein Bildschirm-Symbol klicken. Zunächst muss man noch ein Passwort für die Maschine
-bestimmen. Danach werden die Zugangsdaten für das Remote Desktop (RDP) geladen. Diese kann man anschliessend mit dem "Remote Desktop" 
-von Microsoft öffnen (das Program ist bereits auf dem Computer installiert). </li>
+<li>Sobald die Maschine gestartet wurde, kann man auf ein Bildschirm-Symbol klicken. Bevor diese gestartet wird, muss man noch ein Passwort für die Maschine bestimmen. Danach werden die Zugangsdaten für das Remote Desktop (RDP) geladen. Diese kann man anschliessend mit dem "Remote Desktop" von Microsoft öffnen (das Program ist bereits auf dem Computer installiert). </li>
 <li>Mit diesen Schritten gelangt man nun zur Benutzeroberfläche des Linux! Jedoch muss man sich auch da anmelden mit Benutzername "bain"
 und Passwort, das man am Anfang festgelegt hat. </li>
 <li>Hurra! Unsere virtuelle Maschine ist startklar!</li>
 </ol>
 
-Die Frage ist jetzt nur, wie man die Benutzerschnittstelle, die Unix-Shell überhaupt verwendet. Nun, die Befehle werden im Terminal 
+Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell arbeiten, d.h. der Benutzerschnittstelle. Diese führt jegliche Befehle aus, die wir eintippen. Bspw. wenn ich einen Ordner öffnen möchte, um zu sehen, welche Dateien da enthalten sind, brauche ich nur die richtigen Befehle zu verwenden. So kann man also die Administration von Servern 
+Die Frage ist jetzt nur die Unix-Shell überhaupt verwendet. Nun, die Befehle werden im Terminal 
 ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf OS-Betriebssystem. Die Befehle möchte ich
 auch kurz erklären:
 Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. So finden wir zunächst die 
