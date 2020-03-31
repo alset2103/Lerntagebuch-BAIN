@@ -28,12 +28,9 @@ und Passwort, das man am Anfang festgelegt hat. </li>
 <li>Hurra! Unsere virtuelle Maschine ist startklar!</li>
 </ol>
 
-Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell arbeiten, d.h. der Benutzerschnittstelle. Diese führt jegliche Befehle aus, die wir eintippen. Bspw. wenn ich einen Ordner öffnen möchte, um zu sehen, welche Dateien da enthalten sind, brauche ich nur die richtigen Befehle zu verwenden. So kann man also die Administration von Servern 
-Die Frage ist jetzt nur die Unix-Shell überhaupt verwendet. Nun, die Befehle werden im Terminal 
-ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf OS-Betriebssystem. Die Befehle möchte ich
-auch kurz erklären:
-Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. So finden wir zunächst die 
-(meiner Meinung nach) wichtigsten Befehle:
+Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell arbeiten, d.h. der Benutzerschnittstelle. Diese führt jegliche Befehle aus, die wir eintippen. Bspw. wenn ich einen Ordner öffnen möchte, um zu sehen, welche Dateien da enthalten sind, brauche ich nur die richtigen Befehle zu verwenden. So kann man also die Server administrieren.
+
+Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehle werden im Terminal ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf OS-Betriebssystem. Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. Deshalb möchte ich auch einige der (meiner Meinung nach) wichtigsten Befehle zeigen:
 <ul>
 <li>"mkdir": make directory; ein Verzeichnis erstellen</li>
 <li>"cd": change direction; man wechselt in ein anderes Verzeichnis</li>
@@ -44,13 +41,7 @@ Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARI
 <li>"rm": remove; entfernt eine Datei oder ein Verzeichnis aus einem anderen Verzeichnis</li>
 </ul>
 
-Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obigen, die nützlich wären. Diese könnt ihr unter dem folgenden
-Link finden: http://www.linux-praxis.de/linux1/befehle2.html
+Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obigen, die nützlich wären. Diese könnt ihr unter dem folgenden Link finden: http://www.linux-praxis.de/linux1/befehle2.html
 
 
-Mein Fazit aus dem ersten Vorlesungstag ist, dass vieles bereits bekannt ist, deshalb denke ich auch, dass ich keine grösseren Mühe 
-haben werde, den Stoff zu verstehen. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was auf uns in 
-diesem Fach noch zukommen wird. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders 
-spannendund auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es 
-besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren. 
-
+Ich bin froh, dass bei der ersten Vorlesung so vieles bekannt war, denn so habe ich weniger das Gefühl, dass ich irgendwelche Mühe haben werde. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was wir in diesem Fach noch unternehmen werden. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders spannend und auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren. 
