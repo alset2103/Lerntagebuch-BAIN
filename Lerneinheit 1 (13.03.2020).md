@@ -8,7 +8,7 @@ verkündet, dass aufgrund des Virus alle Fachhochschulen und so auch die FHGR vo
 
 Aber lassen wir Mal den Virus auch in Ruhe (dann lässt er uns hoffentlich auch in Frieden) und kehren wir zurück zum Unterricht. 
 
-Zuerst möchte ich kurz vom Tool erzählen, das unser Dozent, Herr Lohmeier, zur Vermittlung des Stoffes verwendet. Anstatt wie gewöhnlich PPP-Folien vorzubereiten und diese nach un nach abspielen lassen, verwendet er ein Tool von GWDG, auf dem er Dokumente online erstellen und veröffentlichen kann. Diese können von uns Studierenden nicht nur eingesehen, aber auch bearbeitet werden. Es ist eine super Alternative zu den gewohnten Methoden, da die Inhalte gut strukturiert sind und dabei fast alles auf einen Blick ist.
+Zuerst möchte ich kurz vom Tool erzählen, das unser Dozent, Herr Lohmeier, zur Vermittlung des Stoffes verwendet. Anstatt wie gewöhnlich PPP-Folien vorzubereiten und diese nach und nach abspielen zu lassen, verwendet er ein Tool von GWDG, auf dem er Dokumente online erstellen und veröffentlichen kann. Diese können von uns, Studierenden, nicht nur eingesehen, aber auch bearbeitet werden. Es ist eine super Alternative zu den gewohnten Methoden, da die Inhalte gut strukturiert sind. 
 
 Nun, angefangen hat der Unterricht mit einer organisatorischen Einführung. Dies mag eigentlich der beste Zeitpunkt während des ganzen Semesters sein, da man sich einfach zurücklehnen kann und nur zuhören muss, was auf einen bald zukommt. 
 Wir können uns richtig freuen, da es in BAIN keine Prüfung geben wird! Benotet werden nur die Lerntagebuch-Einträge. Darin soll man beschreiben, was man in der letzten Vorlesung alles gelernt hat und zusätzlich können noch persönliche Gedanken und Kritik geäussert werden.
@@ -28,9 +28,9 @@ und Passwort, das man am Anfang festgelegt hat. </li>
 <li>Hurra! Unsere virtuelle Maschine ist startklar!</li>
 </ol>
 
-Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell arbeiten, d.h. der Benutzerschnittstelle. Diese führt jegliche Befehle aus, die wir eintippen. Bspw. wenn ich einen Ordner öffnen möchte, um zu sehen, welche Dateien da enthalten sind, brauche ich nur die richtigen Befehle zu verwenden. So kann man also die Server administrieren.
+Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell arbeiten, d.h. der Benutzerschnittstelle. Diese führt jegliche Befehle aus, die wir eintippen. Bspw. wenn ich einen Ordner öffnen möchte, um zu sehen, welche Dateien da enthalten sind, brauche ich nur die richtigen Befehle im Terminal zu verwenden. 
 
-Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehle werden im Terminal ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf OS-Betriebssystem. Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. Deshalb möchte ich auch einige der (meiner Meinung nach) wichtigsten Befehle zeigen:
+Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehle werden im Terminal ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf dem OS-Betriebssystem. Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. Deshalb möchte ich auch einige der (meiner Meinung nach) wichtigsten Befehle zeigen:
 <ul>
 <li>"mkdir": make directory; ein Verzeichnis erstellen</li>
 <li>"cd": change direction; man wechselt in ein anderes Verzeichnis</li>
@@ -44,4 +44,4 @@ Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehl
 Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obigen, die nützlich wären. Diese könnt ihr unter dem folgenden Link finden: http://www.linux-praxis.de/linux1/befehle2.html
 
 
-Ich bin froh, dass bei der ersten Vorlesung so vieles bekannt war, denn so habe ich weniger das Gefühl, dass ich irgendwelche Mühe haben werde. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was wir in diesem Fach noch unternehmen werden. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders spannend und auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren. 
+Ich bin froh, dass bei der ersten Vorlesung bereits so vieles bekannt war, denn so habe ich weniger das Gefühl, dass ich grosse Mühe im Fach haben werde. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was wir in BAIN noch unternehmen werden. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders spannend und auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren. 
