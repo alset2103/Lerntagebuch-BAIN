@@ -3,8 +3,8 @@
 <p>Inhalt des Tagebuchs</p>
 
 <ul>
-  <li><a href="https://github.com/alset2103/Lerntagebuch-BAIN/blob/master/Einf%C3%BChrungsartikel.md">Einführungsartikel</a></li>
-  <li><a href="https://github.com/alset2103/Lerntagebuch-BAIN/blob/master/Lerneinheit%201%20(13.03.2020).md">Lerneinheit N°1</a> </li>
+  <li><a href="">Einführungsartikel</a></li>
+  <li><a href="">Lerneinheit N°1</a> </li>
 </ul>
 
 <p>Viel Spass beim Durchstöbern!</p>
