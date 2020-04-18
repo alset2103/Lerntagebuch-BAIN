@@ -1,11 +1,9 @@
-<h1>Lerntagebuch über Bibliotheks- und Archivinformatik</h1>
+#Lerntagebuch über Bibliotheks- und Archivinformatik
 
-<p>Inhalt des Tagebuchs</p>
+Inhalt des Tagebuchs
 
-<ul>
-  <li><a href="">Einführungsartikel</a></li>
-  <li><a href="">Lerneinheit N°1</a> </li>
-</ul>
+1.<a href="">Einführungsartikel</a>
+2.<a href="">Lerneinheit N°1</a> 
 
-<p>Viel Spass beim Durchstöbern!</p>
-<p>Liebe Grüsse, Alicja</p>
+Viel Spass beim Durchstöbern!
+Liebe Grüsse, Alicja
