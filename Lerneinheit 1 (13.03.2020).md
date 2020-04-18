@@ -1,4 +1,4 @@
-<h1>Tagebucheintrag zur Lerneinheit 1</h1>
+#Tagebucheintrag zur Lerneinheit 1
 
 Liebes BAIN-Tagebüchlein
 
@@ -18,28 +18,26 @@ Unsere Arbeitsumgebung wird künftig ein Linux-Betriebssystem sein, das dank ein
 Da wir viele verschiedene Bibliotheks- und Archivsysteme anschauen und auch selbst anwenden werden, ist es sinnvoller, diese auf einer virtuellen Maschine durchzutesten. So wird unser Speicherplatz (auf dem Laptop) nicht beansprucht und wir gefährden keinen Absturz unseres Computers. Kurz gesagt: es kann weniger schief gehen! 
 
 Schritte zur Verwendung der virtuellen Maschine von Microsoft Azure:
-<ol>
-<li>In unserem Fall: Wir haben eine Einladung per Email vom Dozenten mit einem Link zur Registrierung erhalten. Damit kann man sich bei Microsoft Azure mit dem Namen, E-Mail und Geburtsdatum registrieren. Man kann aber auch ein bereits bestehendes Microsoft-Konto nutzen. 
-<li>Nach der Anmeldung erscheint ein kleines Fenster mit einer verfügbaren virtuellen Maschine. Dort kann man die Maschine einschalten,
+1. In unserem Fall: Wir haben eine Einladung per Email vom Dozenten mit einem Link zur Registrierung erhalten. Damit kann man sich bei Microsoft Azure mit dem Namen, E-Mail und Geburtsdatum registrieren. Man kann aber auch ein bereits bestehendes Microsoft-Konto nutzen. 
+2. Nach der Anmeldung erscheint ein kleines Fenster mit einer verfügbaren virtuellen Maschine. Dort kann man die Maschine einschalten,
 sowie auch ausschalten.</li>
-<li>Sobald die Maschine gestartet wurde, kann man auf ein Bildschirm-Symbol klicken. Bevor diese gestartet wird, muss man noch ein Passwort für die Maschine bestimmen. Danach werden die Zugangsdaten für das Remote Desktop (RDP) geladen. Diese kann man anschliessend mit dem "Remote Desktop" von Microsoft öffnen (das Program ist bereits auf dem Computer installiert). </li>
-<li>Mit diesen Schritten gelangt man nun zur Benutzeroberfläche des Linux! Jedoch muss man sich auch da anmelden mit Benutzername "bain"
+3. Sobald die Maschine gestartet wurde, kann man auf ein Bildschirm-Symbol klicken. Bevor diese gestartet wird, muss man noch ein Passwort für die Maschine bestimmen. Danach werden die Zugangsdaten für das Remote Desktop (RDP) geladen. Diese kann man anschliessend mit dem "Remote Desktop" von Microsoft öffnen (das Program ist bereits auf dem Computer installiert). </li>
+4. Mit diesen Schritten gelangt man nun zur Benutzeroberfläche des Linux! Jedoch muss man sich auch da anmelden mit Benutzername "bain"
 und Passwort, das man am Anfang festgelegt hat. </li>
-<li>Hurra! Unsere virtuelle Maschine ist startklar!</li>
-</ol>
+5. Hurra! Unsere virtuelle Maschine ist startklar!</li>
+
 
 Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell arbeiten, d.h. der Benutzerschnittstelle. Diese führt jegliche Befehle aus, die wir eintippen. Bspw. wenn ich einen Ordner öffnen möchte, um zu sehen, welche Dateien da enthalten sind, brauche ich nur die richtigen Befehle im Terminal zu verwenden. 
 
 Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehle werden im Terminal ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf dem OS-Betriebssystem. Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. Deshalb möchte ich auch einige der (meiner Meinung nach) wichtigsten Befehle zeigen:
-<ul>
-<li>"mkdir": make directory; ein Verzeichnis erstellen</li>
-<li>"cd": change direction; man wechselt in ein anderes Verzeichnis</li>
-<li>"mv": move; verschiebt eine Datei in anderes Verzeichnis oder Ändert den Namen einer Datei</li>
-<li>"cp": copy; kopiert eine Datei</li>
-<li>"ls": listing; es werden alle Dateien und Ordner im Verzeichnis angezeigt</li>
-<li>"pwd": print working directory; gibt Namen des aktuellen Verzeichnisses aus</li>
-<li>"rm": remove; entfernt eine Datei oder ein Verzeichnis aus einem anderen Verzeichnis</li>
-</ul>
+- "mkdir": make directory; ein Verzeichnis erstellen
+- "cd": change direction; man wechselt in ein anderes Verzeichnis
+- "mv": move; verschiebt eine Datei in anderes Verzeichnis oder Ändert den Namen einer Datei
+- "cp": copy; kopiert eine Datei
+- "ls": listing; es werden alle Dateien und Ordner im Verzeichnis angezeigt
+- "pwd": print working directory; gibt Namen des aktuellen Verzeichnisses aus
+- "rm": remove; entfernt eine Datei oder ein Verzeichnis aus einem anderen Verzeichnis
+
 
 Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obigen, die nützlich wären. Diese könnt ihr unter dem folgenden Link finden: http://www.linux-praxis.de/linux1/befehle2.html
 
