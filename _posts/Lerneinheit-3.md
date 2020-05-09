@@ -13,6 +13,7 @@ Zum ISAD(G): Dies ist ein internationaler Standard für archivale Beschreibung. 
 5. Sachverwandte Unterlagen
 6. Anmerkungen
 7. Kontrolle
+
 Meine Klasse hat ISAD(G) bereits im Modul GLIW - Grundlagen der Informationswissenschaft kennengelernt. Da ich das Modul jedoch nur halbwegs so spannend fand, konnte ich mich an die Inhalte des ISAD(G) noch wenig erinnern. Deshalb fand ich eine kleine Repetition davon sehr hilfreich. 
 
 Selbstverständlich ist ISAD(G) nicht das einzige Standard, das wir kennengelernt haben. Es gibt auch noch das EAD, welches ein XML-Standard ist. Sofern ich weiss, wurde dieser bisher nur kurz in den anderen Modulen erklärt. Auch jetzt ist Herr Lohmeier noch nicht gross aufs Thema eingegangen, jedoch werden wir mit EAD später noch mehr arbeiten. Bin gespannt! 
