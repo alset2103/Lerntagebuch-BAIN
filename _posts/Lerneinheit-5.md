@@ -1,7 +1,5 @@
 #Lerntagebucheintrag zur Einheit 5
 
-Liebes Lerntagebuch, 
-
 Und so berichte ich heute vom letzten BAIN-Block, der am 6. Juni 2020 stattgefunden hat. Es ist etwas komisch für mich, dass die Blöcke schon vorbei sind und bald auch das Semester. Wir sassen beinahe drei Monate zu Hause und die Zeit verflog besonders schnell. Ich freue mich aber, dass die Schule eine Möglichkeit gefunden hat, uns den Unterricht weiter zu ermöglichen und dass wir mit den BAIN-Blöcken oder auch anderen Modulen weiterführen konnten. 
 
 Also, kommen wir zurück zum Unterricht. Am Anfang haben wir uns wieder in Gruppen aufgeteilt, um einige Aufgaben zusammen bearbeiten zu können. Auch haben wir die Probleme vom vorherigen Tag, die bei der Installation von VuFind aufgetreten sind, besprochen. Ausserdem haben wir einen kurzen Einblick bekommen, wie andere Computersysteme überhaupt verwendet werden können. So kenne ich beispielsweise schon die VirtualBox von Oracle, die man auf dem Computer installieren kann, oder den Microsoft Azure. Es gibt aber zahlreiche andere Clouds oder Anwendugnen, die man ebenfalls dafür verwenden kann. 
