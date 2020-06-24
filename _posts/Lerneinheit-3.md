@@ -1,7 +1,5 @@
 #Tagebucheintrag zur Lerneinheit 3
 
-Liebes Lerntagebüchlein, 
-
 Unsere dritte Lerneinheit fand am 24. April 2020 und hatte das Ziel, uns zwei Systeme zu zeigen: den ArchivesSpaces und DSpace. Grundsätzlich war es eine besondere Vorlesung, da unsere Klasse in zwei Gruppen aufgeteilt wurde. So hatte die eine Hälfte am 24., die andere am 25. April BAIN. So war es aber um einiges besser, da Herr Lohmeier mehr Zeit hatte, um sich mit den Anliegen einzelner Studierenden bzw. Gruppen auseinanderzusetzen. 
 
 Als eines der ersten Punkte haben wir uns die Metadatenstandards der Archive angeschaut. Dabei sollten wir Dokumente in den Archiven der ETH und Staatsarchivs Basel zum Thema "Einstein" bzw. "Einstein Ehrat" suchen und beschreiben, ob die Inhalte nach dem Standard ISAD(G) beschrieben wurden. So konnten wir herausfinden, dass die Trefferlisten grundsätzlich dieselben Angaben zu den Dokumenten beinhalten (bspw. Titel, Zeitraum oder Signatur), jedoch hält sich die ETH eher knapp bei der Angaben-Anzeige, die auf den ersten Blick gezeigt wird. Deshalb finde ich auch, dass das Staatsarchiv Basel bessere Übersichtlichkeit hat, da man alle nötigen Angaben gleich auf den ersten Blick bekommt und nicht extra in die Details eines Dokuments gehen muss, um darüber mehr zu erfahren. Ausserdem war dies eine Gruppenarbeit, was ich persönlich gut fand, da wir uns gut unterstützen und austauschen konnten. 
