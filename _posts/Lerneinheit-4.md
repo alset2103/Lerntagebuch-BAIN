@@ -1,6 +1,4 @@
-#Lerntagebucheintrag zum Block 4
-
-Liebes Lerntagebuch, 
+#Lerntagebucheintrag zur Einheit 4 
 
 Die zwei Hauptthemen des Blocks vom 5. Juni 2020 waren MarcEdit und VuFind. Angefangen haben wir jedoch mit OpenRefine. 
 
