@@ -1,7 +1,5 @@
 #Tagebucheintrag zur Lerneinheit 1
 
-Liebes BAIN-Tagebüchlein
-
 Am Freitag, 13.03.2020, fanden die ersten beiden Blöcke des Fachs "BAIN" aka "Bibliotheks- und Archivinformatik" statt. Grundsätzlich
 wäre es ein schöner, leicht sonniger Tag in Zürich gewesen, nur hat uns das Coronavirus die Laune verdorben. An diesem Tag wurde nämlich
 verkündet, dass aufgrund des Virus alle Fachhochschulen und so auch die FHGR vorerst geschlossen werden. Für die, die gerne zu Hause sitzen, ist es eher etwas positives, aber ich habs jetzt schon satt, von zu Hause aus ALLES lernen zu müssen. 
@@ -43,3 +41,6 @@ Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obige
 
 
 Ich bin froh, dass bei der ersten Vorlesung bereits so vieles bekannt war, denn so habe ich weniger das Gefühl, dass ich grosse Mühe im Fach haben werde. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was wir in BAIN noch unternehmen werden. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders spannend und auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren. 
+
+Quellen:
+- Lohmeier, F. (2020). Gemeinsames Dokument zum Modul BAIN: Tag 1 (13.03.2020). 
