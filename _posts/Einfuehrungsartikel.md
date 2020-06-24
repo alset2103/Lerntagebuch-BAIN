@@ -1,7 +1,5 @@
 #Einführungsartikel zum Lerntagebuch BAIN
 
-Liebes Lerntagebüchlein
-
 Meine Klasse ist bereits im vierten Semester des Bachelor Studiums Information Science und so wird es nun Zeit, um sich einen Überblick über die informatischen Systeme, die in Bibliotheken oder Archiven verwendet werden, zu verschaffen. Deshalb findet auch das Modul BAIN (aka Bibliotheks- und Archivinformatik) statt. 
 
 Ebenfalls ab diesem Semester vertiefe ich mich in das Fach "Web and Usability Engineering". Da ich grundsätzlich gerne technisch arbeite und man dabei teilweise auch etwas kreativ sein darf, passt diese Vertiefung ganz gut zu mir. Das Modul BAIN ist ein Pflichtmodul für diese Vertiefung. Das finde ich sehr praktisch, da man sich nicht nur auf einen Bereich ausserhalb den Archiven oder Bibliotheken konzentriert, sondern auch weitere Einblicke in die Arbeit dieser beiden Institutionsformen bekommt. 
